@@ -9,5 +9,4 @@ eureka:
     registerWithEureka: true
     fetchRegistry: true
     
-    service-url:
-     defaultZone: ${EUREKA_SERVER_ADDRESS:localhost}:8761/
+  
